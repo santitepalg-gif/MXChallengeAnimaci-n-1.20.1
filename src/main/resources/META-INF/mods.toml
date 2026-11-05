@@ -4,7 +4,7 @@ license = "All Rights Reserved"
 
 [[mods]]
 modId = "mxchallende"
-version = "${file.jarVersion}"
+version = "${mod_version}"
 displayName = "MXCHALLENDE Dificultad"
 logoFile = "logo.png"
 description = '''
